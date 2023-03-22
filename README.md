@@ -1,2 +1,3 @@
-# Gamer31Issuer
-1483785217
+# entryDate
+
+Describes the date when a Gamer joined Steam
