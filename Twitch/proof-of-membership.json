@@ -120,7 +120,7 @@
           "format": "uri"
         },
         "entryDate": {
-          "type": "string"
+          "type": "integer"
         },
         "broadcasterType": {
           "type": "string"
