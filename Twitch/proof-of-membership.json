@@ -107,9 +107,11 @@
       "required": [
         "id",
         "entryDate",
-        "playerXP",
-        "playerLevel",
-        "playerTotalBadges"
+        "broadcasterType",
+        "followersCount",
+        "videosCount",
+        "videosViewCount",
+        "videosLength"
       ],
       "properties": {
         "id": {
