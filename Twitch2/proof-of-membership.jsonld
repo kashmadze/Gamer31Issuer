@@ -1,0 +1,45 @@
+{
+  "@context": [
+    {
+      "@version": 1.1,
+      "@protected": true,
+      "id": "@id",
+      "type": "@type",
+      "ProofOfMembership": {
+        "@id": "https://raw.githubusercontent.com/kashmadze/Gamer31Issuer/main/Twitch2/proof-of-membership.jsonld#ProofOfMembership",
+        "@context": {
+          "@version": 1.1,
+          "@protected": true,
+          "id": "@id",
+          "type": "@type",
+          "vocab": "https://raw.githubusercontent.com/kashmadze/Gamer31Issuer/main/Twitch2/proof-of-membership-vocab.md#",
+          "xsd": "http://www.w3.org/2001/XMLSchema#",
+          "entryDate": {
+            "@id": "vocab:entryDate",
+            "@type": "xsd:integer"
+          },
+          "broadcasterTpe": {
+            "@id": "vocab:broadcasterType",
+            "@type": "xsd:string"
+          },
+          "followersCount": {
+            "@id": "vocab:followersCount",
+            "@type": "xsd:integer"
+          },
+          "videosCount": {
+            "@id": "vocab:videosCount",
+            "@type": "xsd:integer"
+          },
+          "videosViewCount": {
+            "@id": "vocab:videosViewCount",
+            "@type": "xsd:integer"
+          },
+          "videosLength": {
+            "@id": "vocab:videosLength",
+            "@type": "xsd:integer"
+          }
+        }
+      }
+    }
+  ]
+}
