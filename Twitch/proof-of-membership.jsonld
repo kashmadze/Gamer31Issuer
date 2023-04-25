@@ -18,7 +18,7 @@
             "@id": "vocab:entryDate",
             "@type": "xsd:integer"
           },
-          "broadcasterTpe": {
+          "broadcasterType": {
             "@id": "vocab:broadcasterType",
             "@type": "xsd:string"
           },

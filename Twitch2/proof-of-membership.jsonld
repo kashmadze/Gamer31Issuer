@@ -12,13 +12,13 @@
           "@protected": true,
           "id": "@id",
           "type": "@type",
-          "vocab": "https://raw.githubusercontent.com/kashmadze/Gamer31Issuer/main/Twitch2/proof-of-membership-vocab.md#",
+          "vocab": "https://raw.githubusercontent.com/kashmadze/Gamer31Issuer/main/Twitch/proof-of-membership-vocab.md#",
           "xsd": "http://www.w3.org/2001/XMLSchema#",
           "entryDate": {
             "@id": "vocab:entryDate",
             "@type": "xsd:integer"
           },
-          "broadcasterTpe": {
+          "broadcasterType": {
             "@id": "vocab:broadcasterType",
             "@type": "xsd:string"
           },
