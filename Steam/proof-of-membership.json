@@ -3,8 +3,8 @@
   "type": "object",
   "$metadata": {
     "uris": {
-      "jsonLdContext": "https://raw.githubusercontent.com/kashmadze/Gamer31Issuer/main/proof-of-membership.jsonld",
-      "jsonSchema": "https://raw.githubusercontent.com/kashmadze/Gamer31Issuer/main/proof-of-membership.json"
+      "jsonLdContext": "https://raw.githubusercontent.com/kashmadze/Gamer31Issuer/main/Steam/proof-of-membership.jsonld",
+      "jsonSchema": "https://raw.githubusercontent.com/kashmadze/Gamer31Issuer/main/Steam/proof-of-membership.json"
     }
   },
   "required": [
