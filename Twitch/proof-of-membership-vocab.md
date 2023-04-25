@@ -5,9 +5,6 @@ Describes the date when a Gamer joined Twitch
 # broadcasterType
 
 Describes user's broadcaster Type
-"affiliate" - affiliate broadcaster
-"partner" - partner broadcaster 
-"" - normal broadcaster
 
 # followersCount
 
