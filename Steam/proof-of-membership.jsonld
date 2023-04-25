@@ -6,13 +6,13 @@
       "id": "@id",
       "type": "@type",
       "ProofOfMembership": {
-        "@id": "https://raw.githubusercontent.com/kashmadze/Gamer31Issuer/main/proof-of-membership.jsonld#ProofOfMembership",
+        "@id": "https://raw.githubusercontent.com/kashmadze/Gamer31Issuer/main/Steam/proof-of-membership.jsonld#ProofOfMembership",
         "@context": {
           "@version": 1.1,
           "@protected": true,
           "id": "@id",
           "type": "@type",
-          "vocab": "https://raw.githubusercontent.com/kashmadze/Gamer31Issuer/main/proof-of-membership-vocab.md#",
+          "vocab": "https://raw.githubusercontent.com/kashmadze/Gamer31Issuer/main/Steam/proof-of-membership-vocab.md#",
           "xsd": "http://www.w3.org/2001/XMLSchema#",
           "entryDate": {
             "@id": "vocab:entryDate",
