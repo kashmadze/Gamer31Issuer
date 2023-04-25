@@ -19,7 +19,7 @@
             "@type": "xsd:integer"
           },
           "broadcasterTpe": {
-            "@id": "vocab:broadcaster_type",
+            "@id": "vocab:broadcasterType",
             "@type": "xsd:string"
           },
           "followersCount": {

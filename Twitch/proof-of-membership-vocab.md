@@ -2,7 +2,7 @@
 
 Describes the date when a Gamer joined Twitch
 
-# broadcaster_type
+# broadcasterType
 
 Describes user's broadcaster Type
 "affiliate" - affiliate broadcaster
