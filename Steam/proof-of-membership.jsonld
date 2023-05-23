@@ -5,7 +5,7 @@
       "@protected": true,
       "id": "@id",
       "type": "@type",
-      "ProofOfMembership": {
+      "Gamer31SteamID": {
         "@id": "https://raw.githubusercontent.com/kashmadze/Gamer31Issuer/main/Steam/proof-of-membership.jsonld#ProofOfMembership",
         "@context": {
           "@version": 1.1,
