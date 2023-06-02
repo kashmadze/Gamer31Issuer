@@ -29,6 +29,10 @@
           "playerTotalBadges": {
             "@id": "vocab:playerTotalBadges",
             "@type": "xsd:integer"
+          },
+          "playerTotalGamesOwned": {
+            "@id": "vocab:playerTotalGamesOwned",
+            "@type": "xsd:integer"
           }
         }
       }
